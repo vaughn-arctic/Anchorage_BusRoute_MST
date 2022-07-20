@@ -4,10 +4,10 @@ Dijkstra's algorithm for travel within the Anchorage metro area
 Can be used with any MST with vertecies. 
 Input format for txt file is:
 
-# stops
-Stop #
+num of stops
+Stop num
 Stop Name (string)
-# Adjecent verticies
+num  Adjecent verticies
 "%d" "%f" (adjecent vertex #, weight destiance)
 
 ex. 
